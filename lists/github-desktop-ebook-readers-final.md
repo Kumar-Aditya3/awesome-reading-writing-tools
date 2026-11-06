@@ -200,7 +200,7 @@ For developers, sysadmins, and writers who spend their entire working day inside
 
 ## Also consider: early projects
 
-- **[Folio](https://github.com/Kumar-Aditya3/Folio)** — **Platforms:** Windows x64 (build from source), with an Android companion preview. **Licence:** [Apache-2.0](https://github.com/Kumar-Aditya3/Folio/blob/main/LICENSE). **Cost:** Free. A local-first EPUB and document reader with adjustable typography, highlights, notes, and reading activity. **Downsides:** Early development, no published Windows binary, no Linux or macOS runtime support, and optional cloud sync requires the reader’s own Firebase configuration. [Build instructions](https://github.com/Kumar-Aditya3/Folio#getting-started).
+- **[Folio](https://github.com/Kumar-Aditya3/Folio)** — **Platforms:** Windows x64, with an Android companion preview. **Licence:** [Apache-2.0](https://github.com/Kumar-Aditya3/Folio/blob/main/LICENSE). **Cost:** Free. A local-first EPUB and document reader with adjustable typography, highlights, notes, and reading activity. **Downsides:** Early development, an unsigned Windows preview, no Linux or macOS runtime support, and optional cloud sync requires the reader’s own Firebase configuration. [Portable Windows download](https://github.com/Kumar-Aditya3/Folio/releases/tag/windows-v1.0.38).
 
 ## Also worth knowing
 
